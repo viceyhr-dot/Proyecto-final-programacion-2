@@ -2,7 +2,7 @@
 
 Nombres de los integrantes:
 - Andrés Rodríguez
--
+- Laura Isabella González Hernández 
 -
 
 Explicación de la estructura de los datos:
