@@ -3,7 +3,7 @@
 Nombres de los integrantes:
 - Andrés Rodríguez
 - Laura Isabella González Hernández 
--
+- Vice Yuleisy Hernandez Rodriguez
 
 Explicación de la estructura de los datos:
 
